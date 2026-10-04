@@ -1,0 +1,1 @@
+export const typography = 'Inter, ui-sans-serif, system-ui, sans-serif';
